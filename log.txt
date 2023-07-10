@@ -1,0 +1,6 @@
+Init light and poly: 2023-07-10 19:01:48.504061
+Finished init light and poly: 2023-07-10 19:03:53.171830
+Start calculation
+Finished calculation: 2023-07-10 19:07:56.190220
+Input light intense: 10
+Output light intense: 0.5783016379888428
